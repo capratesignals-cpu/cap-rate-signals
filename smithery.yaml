@@ -1,0 +1,25 @@
+name: Cap Rate Signals
+description: Real estate investment intelligence — identifies US markets repricing ahead of consensus using confirmed corporate investment signals. Tracks semiconductor fabs, pharma plants, defense campuses, data centers, and military installations to score 40+ US metros before workers arrive and housing prices move.
+homepage: https://capratesignals.com
+icon: https://capratesignals.com/favicon.ico
+
+startCommand:
+  type: http
+  url: https://cap-rate-signals-mcp-production.up.railway.app/mcp
+
+tags:
+  - real-estate
+  - investment
+  - finance
+  - market-intelligence
+  - housing
+  - property
+  - data
+  - us-markets
+  - cap-rate
+  - corporate-investment
+  - semiconductor
+  - defense
+  - pharma
+  - data-center
+  - economic-development
